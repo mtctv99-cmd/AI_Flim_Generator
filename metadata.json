@@ -1,0 +1,6 @@
+{
+  "name": "FLIM AI Studio",
+  "description": "Autonomous AI Filmmaking Platform from idea to design lock, production, QA, and final master video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
